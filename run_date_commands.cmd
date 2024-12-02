@@ -4,6 +4,6 @@
 cd /
 
 # Create the folder in the main directory
-mkdir "Folder New Trigger"
+mkdir "Trigger-2"
 
 echo "Folder 'Folder with Azure pipeline' created successfully in the main directory!"
