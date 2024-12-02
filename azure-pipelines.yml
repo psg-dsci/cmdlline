@@ -2,7 +2,7 @@ trigger:
 - main  # Trigger the pipeline when changes are pushed to the main branch
 
 pool:
-  name: 'fahimagent'  # Use the name of your agent pool
+  name: 'pool'  # Use the name of your agent pool
 
 jobs:
 - job: RunDateCommands
